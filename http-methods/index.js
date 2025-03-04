@@ -37,6 +37,8 @@ http
           } else if (method === "POST") {
             // DB query
             res.end("DB was updated and signup was done");
+          } else if (method === " PUT") {
+            res.end("File was uploaded using PUT");
           }
           break;
 
