@@ -1,0 +1,5 @@
+GET /api/users
+GET /api/users/1
+POST /api/users
+DELETE /api/users/900
+PATCH /api/users/800
