@@ -1,0 +1,4 @@
+
+GET /about 
+GET /signup 
+GET / 
